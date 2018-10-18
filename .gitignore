@@ -1,3 +1,6 @@
 settings.py
 manage.py
 __init__.py
+models.py
+views.py
+urls.py
