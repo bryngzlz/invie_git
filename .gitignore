@@ -1,6 +1,6 @@
 settings.py
 manage.py
-__init__.py
+__INIT__.py
 models.py
 views.py
 URLS.py
